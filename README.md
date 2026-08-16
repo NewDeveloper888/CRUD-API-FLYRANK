@@ -8,7 +8,7 @@ A lightweight in-memory REST API built using Python and FastAPI for managing tas
 
 FastAPI automatically generates interactive OpenAPI documentation.
 
-![Swagger UI Preview](screenshots/swagger.png)
+![Swagger UI](./Swagger%20UI/screenshots/swagger.jpeg)
 
 Access the live interactive documentation locally at:
 * **Swagger UI:** `http://127.0.0.1:8000/docs`
@@ -29,8 +29,8 @@ Access the live interactive documentation locally at:
 
 ### 1. Clone the Repository
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
-cd <REPO_FOLDER_NAME>
+git clone https://github.com/NewDeveloper888/CRUD-API-FLYRANK.git
+cd CRUD-API-FLYRANK
 ```
 
 ### 2. Create and Activate Virtual Environment
